@@ -1,0 +1,23 @@
+QUEST DIAGNOSTICS CLINICAL LABORATORIES
+METABOLIC & HEMATOLOGY COMPREHENSIVE PANEL
+Patient: Sarah Jenkins | DOB: 1982-06-14 | Sex: F
+Specimen Collected: 2024-08-15 08:30 AM
+Ordering Physician: Dr. Rebecca Miller, MD (Mercy Health)
+
+TEST NAME                       RESULT   UNITS      REFERENCE RANGE   STATUS
+----------------------------------------------------------------------------
+Hemoglobin A1c (HbA1c)          6.8      %          < 5.7             HIGH [Abnormal]
+Fasting Plasma Glucose          134      mg/dL      70 - 99           HIGH [Abnormal]
+Serum Creatinine                0.88     mg/dL      0.57 - 1.00       NORMAL
+eGFR (CKD-EPI)                  > 90     mL/min     > 60              NORMAL
+Blood Urea Nitrogen (BUN)       14       mg/dL      7 - 20            NORMAL
+Total Cholesterol               215      mg/dL      < 200             HIGH [Borderline]
+LDL Cholesterol (Calc)          132      mg/dL      < 100             HIGH [Abnormal]
+HDL Cholesterol                 52       mg/dL      > 50              NORMAL
+Triglycerides                   155      mg/dL      < 150             HIGH
+White Blood Cell Count (WBC)    7.4      x10^3/uL   4.5 - 11.0        NORMAL
+Red Blood Cell Count (RBC)      4.62     x10^6/uL   4.10 - 5.10       NORMAL
+Platelets                       245      x10^3/uL   150 - 450         NORMAL
+
+CLINICAL INTERPRETATION:
+Glycemic parameters elevated consistent with Type 2 Diabetes Mellitus under oral antidiabetic therapy. Lipid panel demonstrates mild hypercholesterolemia. Renal filtration intact.

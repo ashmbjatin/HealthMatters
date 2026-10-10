@@ -1,0 +1,26 @@
+ST. JUDE REGIONAL MEDICAL CENTER
+INPATIENT HOSPITAL DISCHARGE SUMMARY
+Admission Date: January 18, 2024
+Discharge Date: January 20, 2024
+Patient: Sarah Jenkins | Age: 41 | Sex: Female
+Attending Physician: Dr. Sarah Lin, MD, Hospitalist Medicine
+
+PRIMARY ADMISSION DIAGNOSIS:
+Acute Viral Bronchitis with secondary dehydration and orthostatic dizziness.
+
+SECONDARY / CHRONIC DIAGNOSES:
+1. Essential Primary Hypertension (ICD-10: I10)
+2. Type 2 Diabetes Mellitus without acute decompensation (ICD-10: E11.9)
+3. Known Severe Drug Allergy: Penicillin (severe urticaria/bronchospasm)
+
+HOSPITAL COURSE SUMMARY:
+Patient presented to Emergency Department with 3-day history of productive cough, low-grade fever (38.8 C), and dizziness. Chest X-ray performed on admission demonstrated clear lung fields without focal consolidation or pneumothorax. Treated with IV Normal Saline 2L, bronchodilator nebulizers (Albuterol), and oral antipyretics. Vitals normalized. Ambulatory with 98% room air SpO2 at discharge.
+
+DISCHARGE MEDICATIONS:
+- Resume Lisinopril 10 mg oral daily
+- Continue Metformin HCl 500 mg oral BID with meals
+- Start Albuterol HFA Inhaler 90 mcg: 2 puffs inhaled every 4-6 hours as needed for bronchospasm x 7 days
+
+FOLLOW-UP RECOMMENDATIONS:
+1. Follow up with Primary Care Physician (Dr. Rebecca Miller) within 14 days.
+2. Return to Emergency Center if chest pain, severe dyspnea, or persistent fever recur.

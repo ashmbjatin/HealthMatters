@@ -1,0 +1,31 @@
+MERCY INTEGRATED HEALTH CENTER - OUTPATIENT PRESCRIPTION
+Date: July 28, 2024
+Patient Name: Sarah M. Jenkins
+DOB: 06/14/1982 | MRN: HM-2024-88412
+Allergies: Penicillin (ANAPHYLAXIS), Sulfa Drugs
+
+Rx:
+1. Metformin Hydrochloride 500 mg Tablet
+   Sig: Take 1 tablet by mouth twice daily (BID) with meals.
+   Dispense: #60 tablets
+   Refills: 3
+   Indication: Type 2 Diabetes Mellitus
+
+2. Lisinopril 10 mg Tablet
+   Sig: Take 1 tablet by mouth once daily in the morning.
+   Dispense: #30 tablets
+   Refills: 5
+   Indication: Essential Hypertension
+
+3. Atorvastatin Calcium 20 mg Tablet
+   Sig: Take 1 tablet by mouth daily at bedtime.
+   Dispense: #30 tablets
+   Refills: 3
+   Indication: Hyperlipidemia
+
+Special Instructions:
+Avoid concurrent NSAID overuse without consultation. Monitor BP twice weekly.
+
+Physician Signature:
+Dr. Rebecca Miller, MD, FACP
+License: MD-982104-OH | Mercy Health Clinic #4
