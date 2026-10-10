@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { MedicalProvider, useMedical } from './context/MedicalContext';
 import { Header } from './components/Header';
-import { ApiKeyModal } from './components/ApiKeyModal';
 import { DashboardView } from './components/DashboardView';
 import { UploadView } from './components/UploadView';
 import { TimelineView } from './components/TimelineView';
@@ -11,12 +10,11 @@ import { DoctorView } from './components/DoctorView';
 
 const MainContent: React.FC = () => {
   const { activeTab } = useMedical();
-  const [isApiKeyModalOpen, setIsApiKeyModalOpen] = useState(false);
 
   return (
     <div className="app-shell">
       {/* Top Header */}
-      <Header onOpenApiKeyModal={() => setIsApiKeyModalOpen(true)} />
+      <Header />
 
       {/* Main Container */}
       <main className="app-container">
@@ -27,12 +25,6 @@ const MainContent: React.FC = () => {
         {activeTab === 'share' && <ShareView />}
         {activeTab === 'doctor' && <DoctorView />}
       </main>
-
-      {/* API Key Modal */}
-      <ApiKeyModal 
-        isOpen={isApiKeyModalOpen} 
-        onClose={() => setIsApiKeyModalOpen(false)} 
-      />
     </div>
   );
 };

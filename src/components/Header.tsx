@@ -6,17 +6,12 @@ import {
   CheckCircle2, 
   QrCode, 
   Stethoscope, 
-  Key, 
   RotateCcw,
   AlertCircle
 } from 'lucide-react';
 import { useMedical } from '../context/MedicalContext';
 
-interface HeaderProps {
-  onOpenApiKeyModal: () => void;
-}
-
-export const Header: React.FC<HeaderProps> = ({ onOpenApiKeyModal }) => {
+export const Header: React.FC = () => {
   const { 
     patient, 
     documents, 
@@ -108,7 +103,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenApiKeyModal }) => {
           </button>
         </nav>
 
-        {/* Right Actions: Doctor View preview, Demo data reset, Gemini API key */}
+        {/* Right Actions: Doctor View preview, Demo data reset */}
         <div className="header-right-actions">
           <button 
             className={`btn btn-sm ${activeTab === 'doctor' ? 'btn-teal' : 'btn-secondary'}`}
@@ -117,15 +112,6 @@ export const Header: React.FC<HeaderProps> = ({ onOpenApiKeyModal }) => {
           >
             <Stethoscope size={15} />
             Doctor View
-          </button>
-
-          <button 
-            className="btn btn-secondary btn-sm"
-            onClick={onOpenApiKeyModal}
-            title="Configure Gemini API or check AI connection"
-          >
-            <Key size={14} />
-            AI Config
           </button>
 
           {documents.length === 0 ? (
